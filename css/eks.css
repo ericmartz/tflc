@@ -52,6 +52,12 @@ a.footer:hover { text-decoration:underline;color:#4557e9;}
 	color:#00F;
 }
 
+#bio-xavier {
+	position:relative;
+	cursor:pointer;
+	color:#00F;
+}
+
 #spacer { }
 
 h2, h3 {
@@ -181,6 +187,10 @@ img#homepage-title-img {
 }
 
 #hidden-bio-content-danny {
+	margin:0px 0px 0px 110px;
+}
+
+#hidden-bio-content-xavier {
 	margin:0px 0px 0px 110px;
 }
 	
