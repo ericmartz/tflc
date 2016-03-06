@@ -37,7 +37,7 @@ a.footer:hover { text-decoration:underline;color:#4557e9;}
 	position:relative;
 	cursor:pointer;
 	color:#00F;
-	left:110px;
+	/*left:110px;*/
 }
 
 #bio-aaron {
